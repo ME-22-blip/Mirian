@@ -1,11 +1,11 @@
 <html>
-  <html>
-    <title> Hola mundo </title>
-  </head>
-        <body>
-          <ht>hola mundo página de prueba </ht>
-          <hr>
-            <center>ejercicio creación ramas</center>
-        </body>
-  </html>
+ <head>
+  <title> Hola mundo</title>
+</head>
+<body>
+<h1> Hola mundo página de prueba </h1>
+<hr>
+<center> Ejercicio creación rama </center>
+</body>
+</html>
                   
